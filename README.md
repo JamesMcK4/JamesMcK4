@@ -20,20 +20,25 @@ Tableau
 📂 Projects
 
 
-Portfolio in active development — new projects added regularly.
+Portfolio in active development - new projects added regularly.
 
 
 
 ProjectDescriptionTools
 🚧 Coming Soon
+
 Sales performance dashboard
 Python, Power BI
+
 🚧 Coming Soon
+
 Data cleaning & EDA project Python, Pandas
+
 🚧 Coming Soon
+
 SQL analysis project
 
-Check back soon — I'm building these out now.
+Check back soon - I'm building these out now.
 
 
 🎯 Currently Working On
