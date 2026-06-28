@@ -21,6 +21,7 @@ Tableau
 
 Portfolio in active development - new projects added regularly.
 
+
 🎯 Currently Working On
 
 
@@ -28,8 +29,6 @@ Portfolio in active development - new projects added regularly.
 🐍 Strengthening Python fundamentals (Pandas, Matplotlib, NumPy)
 🗄️ Practising SQL querying and database design
 📈 Learning Power BI dashboard best practices
-
-
 
 📫 Let's Connect
 
