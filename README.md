@@ -2,7 +2,7 @@ About Me
 
 I'm a data analytics enthusiast based in Edmonton, Alberta, rebuilding and expanding my programming skills with a clear goal: to build a career turning complex data into clear, compelling insights that drive real decisions.
 
-With a background in sales, I bring strong communication skills and a customer-focused mindset to every project - I know how to ask the right questions, understand what stakeholders actually need, and present findings in a way that resonates beyond the technical team.
+With a background in sales, I bring strong communication skills and a customer-focused mindset to every project. I know how to ask the right questions, understand what stakeholders actually need, and present findings in a way that resonates beyond the technical team.
 
 I'm currently sharpening my skills across the modern data stack and building a portfolio of projects that reflect real-world analytical challenges.
 
